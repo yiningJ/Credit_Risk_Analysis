@@ -2,7 +2,7 @@
 ## Overview
 Through the analysis we are using 6 different models to predict credit risk for a lending services company LendingClub. Then we will be able to evaluate the performance of these models.
 
-##Results
+## Results
 - Naive Random Oversampling¶
 <img width="333" alt="Screenshot 2023-01-04 at 9 34 54 PM" src="https://user-images.githubusercontent.com/110696825/210688605-773e78b1-4d70-43a5-9c93-d7403b95a322.png">
 <img width="700" alt="Screenshot 2023-01-04 at 9 35 13 PM" src="https://user-images.githubusercontent.com/110696825/210688631-ccdd6423-5058-477e-bcdb-112fc8fc0931.png">
@@ -27,5 +27,5 @@ Through the analysis we are using 6 different models to predict credit risk for 
 <img width="377" alt="Screenshot 2023-01-04 at 10 02 10 PM" src="https://user-images.githubusercontent.com/110696825/210691816-d20fd1bf-4b5e-4b7f-9c4a-36e0b53476f5.png">
 <img width="710" alt="Screenshot 2023-01-04 at 10 02 38 PM" src="https://user-images.githubusercontent.com/110696825/210691860-4614dd10-267b-40e1-bbe6-f99fcdf5d8f9.png">
 
-##Summary
+## Summary
 Easy Ensemble AdaBoost looks like the best model to predict credit risk as it's balanced accuvacy score is the highest at around 93% and highest recall score at 94%.
